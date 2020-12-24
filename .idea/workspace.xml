@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="ncm" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46e9d1cb-2479-4cb7-8e74-07fd7a5e25bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[e107daf0]" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/keystore/keystore_digiapt_videos_app.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lkJ1xQK2DLZAceBQEStI7Lbopr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ApkExportedModule" value="Digiapt_Video_App.app" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-view/home/nirmal/Github/digiapt-videos-kotlin/app/src/main/java/com/digiapt/digiaptvideoapp/modules/vdocipher/VdoPlayerControlView.kt_SELECTED" value="VdoPlayerControlView" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/keystore_digiaptvideoapp.jks" />
+    <property name="multi-representation-preview/home/nirmal/Github/digiapt-videos-kotlin/app/src/main/java/com/digiapt/digiaptvideoapp/modules/vdocipher/VdoPlayerControlView.kt_selected" value="Custom views" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.digiapt.digiaptvideoapp.network.responses" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.digiapt.digiaptvideoapp.activities" />
+      <recent name="com.digiapt.digiaptvideoapp.modules.vdocipher" />
+      <recent name="com.digiapt.digiaptvideoapp.viewmodels" />
+      <recent name="com.digiapt.digiaptvideoapp.listeners" />
+      <recent name="com.digiapt.digiaptvideoapp.adapters" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.digiapt.digiaptvideoapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/xml" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/digiapt/digiaptvideoapp/network" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Digiapt_Video_App.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46e9d1cb-2479-4cb7-8e74-07fd7a5e25bc" name="Default Changelist" comment="" />
+      <created>1608134944328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608134944328</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Changing structure">
+      <created>1608141347274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608141347274</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changing structure 2">
+      <created>1608149588576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608149588577</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Made things working">
+      <created>1608296944355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608296944355</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Using live API from vdocipher bor both highlight video as well as listing">
+      <created>1608803020281</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608803020281</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Changing structure" />
+    <MESSAGE value="Changing structure 2" />
+    <MESSAGE value="Made things working" />
+    <MESSAGE value="Using live API from vdocipher bor both highlight video as well as listing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using live API from vdocipher bor both highlight video as well as listing" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="282" y="321" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1608145301237">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="282" y="321" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1299.741@67.27.1299.741" timestamp="1608145301237" />
+    <state x="466" y="278" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1608143208879">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="466" y="278" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/67.27.1299.741@67.27.1299.741" timestamp="1608143208879" />
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608142482719">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1608142482719" />
+    <state x="441" y="158" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1608144233857">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="441" y="158" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1608144233857" />
+    <state x="299" y="154" width="824" height="484" key="AndroidCreateResourceFileDialog" timestamp="1608280939232">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="299" y="154" width="824" height="484" key="AndroidCreateResourceFileDialog/67.27.1299.741@67.27.1299.741" timestamp="1608280939232" />
+    <state x="209" y="27" width="1005" height="741" key="CommitChangelistDialog2" timestamp="1608803015790">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="209" y="27" width="1005" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1608803015790" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1608789699361">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1608789699361" />
+    <state x="543" y="296" key="Github.ShareDialog" timestamp="1608820151538">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="543" y="296" key="Github.ShareDialog/67.27.1299.741@67.27.1299.741" timestamp="1608820151538" />
+    <state x="351" y="76" width="720" height="640" key="Github.UntrackedFilesDialog" timestamp="1608818648123">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="351" y="76" width="720" height="640" key="Github.UntrackedFilesDialog/67.27.1299.741@67.27.1299.741" timestamp="1608818648123" />
+    <state width="1253" height="171" key="GridCell.Tab.0.bottom" timestamp="1608818269844">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="171" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1608818269844" />
+    <state width="1253" height="171" key="GridCell.Tab.0.center" timestamp="1608818269843">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="171" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1608818269843" />
+    <state width="1253" height="171" key="GridCell.Tab.0.left" timestamp="1608818269842">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="171" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1608818269842" />
+    <state width="1253" height="171" key="GridCell.Tab.0.right" timestamp="1608818269843">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="171" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1608818269843" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1608820257429">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1608820257429" />
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1608803176464">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1608803176464" />
+    <state x="326" y="27" width="770" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1608288085400">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="326" y="27" width="770" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1299.741@67.27.1299.741" timestamp="1608288085400" />
+    <state x="242" y="27" width="987" height="440" key="dock-window-1" timestamp="1608291473052">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="242" y="27" width="987" height="440" key="dock-window-1/67.27.1299.741@67.27.1299.741" timestamp="1608291473052" />
+    <state x="379" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1608741689680">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="88" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1608741689680" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/digiapt/digiaptvideoapp/viewmodels/HomeViewModel.kt</url>
+          <line>79</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

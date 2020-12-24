@@ -1,0 +1,61 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+   <data>
+      <import type="android.view.View" />
+      <variable
+          name="homeFragment"
+          type="com.digiapt.digiaptvideoapp.fragments.HomeFragment" />
+   </data>
+
+   <FrameLayout
+       android:id="@+id/id_popup_home"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+      <View
+       android:alpha="0.7"
+       android:background="@color/colorBlack"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"/>
+
+      <LinearLayout
+          android:layout_gravity="center"
+          android:orientation="vertical"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent">
+
+         <androidx.recyclerview.widget.RecyclerView
+             android:layout_marginTop="20dp"
+             android:layout_gravity="center"
+             android:layout_weight="1"
+             tools:listitem="@layout/adapter_subcategory"
+             android:id="@+id/recycler_view_subcategories"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content" />
+
+         <View
+             android:layout_width="match_parent"
+             android:layout_height="100dp"/>
+      </LinearLayout>
+
+      <View
+          android:background="@drawable/gradient_popup"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:scaleType="centerCrop"/>
+
+      <ImageButton
+          android:background="@android:color/transparent"
+          android:id="@+id/id_close_popup"
+          android:layout_marginTop="10dp"
+          android:tint="@color/grey_40"
+          android:layout_marginBottom="20dp"
+          android:layout_gravity="bottom|center_horizontal"
+          android:src="@drawable/ic_close"
+          android:layout_width="60dp"
+          android:layout_height="60dp"/>
+
+   </FrameLayout>
+</layout>
